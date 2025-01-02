@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bharat-9368
-- 👀 I’m interested in Data Science, Public Policy and Technology 
+- 👀 I’m interested in Data Science and Technology 
 - 💞️ I’m looking to collaborate on SaaS Projects 
 - 📫 How to reach me bbwork130299@gmail.com
 
